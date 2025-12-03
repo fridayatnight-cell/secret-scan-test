@@ -11,3 +11,8 @@ $
             {
                 "access_token": "eyJ0eXBaioJKV1QiLCJhbGdcsiJIUzI1NiJ9...",
             }
+
+
+ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+AKIA9FHS7DK4LQ8T3YPL
+
