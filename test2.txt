@@ -1,3 +1,13 @@
 ghp_111111111111111111111111111111111111
 AKIAIOSFODNN7EXAMPLE
 
+
+ghp_111111111111111111111111111111111111
+AKIAIOSFODNN7EXAMPLE
+
+$
+.. code-block:: json
+
+            {
+                "access_token": "eyJ0eXBaioJKV1QiLCJhbGdcsiJIUzI1NiJ9...",
+            }
